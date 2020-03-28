@@ -21,12 +21,14 @@ button:disabled{
   cursor: not-allowed;
 }
 .main-title{
-font-size: 4rem;
+font-size: 3rem;
 font-weight: 400;
 }
 .length-control{
   display: flex;
-  margin: 0 40px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 15px;
 }
 .length-control-container{
   display: flex;
